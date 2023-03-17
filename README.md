@@ -10,7 +10,7 @@ This project aims to manage data, perform data cleaning and analysis the data on
     1. Data Ingestion — Importing data to ingest data of different data types.
     2. ETL Process    — We are getting data in raw format, transforming this data into the 
        proper format
-    3. Data Storage   — We will be getting data from multiple sources so we need centralized repo to store them.
+    3. Data Wranging  — We will be getting data from multiple sources so we need centralized repo to store them.
     4. Flexibility    — As the size of our data increases, we need to make sure our system is more flexible with it.
     5. Platform       — We can’t modidy vast amounts of data on our local computer so we need to use some platform, in this case, we will use JYPUTER notebook.
     6. Reporting      — Build a dashboard to get answers to the question we asked earlier, we will be using PowerBi
