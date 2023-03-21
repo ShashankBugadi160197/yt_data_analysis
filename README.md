@@ -19,10 +19,6 @@ Pandas:   pandas is a software library written for the Python programming langua
 
 Link : https://pandas.pydata.org/docs/getting_started/install.html
 
-Numpy: NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
-
-Link: https://numpy.org/install/
-
 OS module : Python OS module provides the facility to establish the interaction between the user and the operating system. It offers many useful OS functions that are used to perform OS-based tasks and get related information about operating system.
 
 Seaborn: Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
